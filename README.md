@@ -1,2 +1,3 @@
-# GalacticIntersection
-space shooter game written in c#
+# README #
+
+Prog3 Project: Galactic Intersection
