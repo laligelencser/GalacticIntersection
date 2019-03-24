@@ -18,8 +18,8 @@ This is a space shooter written in c#
 ---------------------------------------
 
 Basic control:
-- Up arrow or w: Forward
-- Down arrow or s: Backward
-- Right arrow or a: Right
-- Left arrow or d: Left
+- Up arrow or W: Forward
+- Down arrow or S: Backward
+- Right arrow or A: Right
+- Left arrow or D: Left
 - Space: Shooting
